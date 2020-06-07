@@ -1,0 +1,1 @@
+ps -ef | grep -v grep | grep torrc-$1 | awk '{print $2}'

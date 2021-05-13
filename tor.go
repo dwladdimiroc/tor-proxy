@@ -20,7 +20,7 @@ const (
 	TorSocksPort = 10000
 	torCommand   = "tor"
 	torFlag      = "-f"
-	torConfig    = "/home/daniel/.tor/data-0/torrc-0"
+	torConfig    = "/home/usr/.tor/data-0/torrc-0"
 	psCommand    = "sh"
 	psArg        = "findPid.sh"
 	killBase     = "kill"
